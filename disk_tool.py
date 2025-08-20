@@ -1,5 +1,5 @@
 from textual.app import App, ComposeResult
-from textual.widgets import Button, Header Footer, Static, Input
+from textual.widgets import Button, Header, Footer, Static, Input
 from textual.containers import Container
 from textual.screen import Screen
 import subprocess
